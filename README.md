@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nikowolf123
-- 👀 I’m interested in HTML, CSS, SCSS, Photoshop and Videoediting
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in HTML, CSS, SCSS, Java, Javascript, C#, PHP, MySQL, Photoshop and Videoediting
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Nikolo#2297
+- 📫 How to reach me Discord: Senseidoi#7492
 
 <!---
 Nikowolf123/Nikowolf123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

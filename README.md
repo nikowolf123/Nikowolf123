@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, SCSS, Java, Javascript, C#, PHP, MySQL, Photoshop and Videoediting
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Senseidoi#7492
+- 📫 How to reach me Discord: Senseidoi#9193
 
 <!---
 Nikowolf123/Nikowolf123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
